@@ -21,7 +21,7 @@ import cleiton.example.com.brazukas.R;
 import cleiton.example.com.brazukas.model.ClubeModel;
 
 /**
- * Created by Cleiton on 13/10/2017.
+ * Created by Cleiton on 13/10/2017..
  */
 
 public class ClubesArrayAdpter extends ArrayAdapter<ClubeModel> {
